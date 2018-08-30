@@ -1,0 +1,39 @@
+git clone https://github.com/thesanz/homestay.git
+
+
+
+git branch —all
+
+
+
+git checkout initial-commit
+
+
+
+git branch
+
+
+
+git config user.email sanjaysubedi1@gmail.com
+
+
+
+git config user.name “Sanjay"
+
+
+
+git add .gitignore
+
+
+
+git commit -m "add initial code”
+
+
+
+git push origin head
+
+git status
+
+
+
+git pull
